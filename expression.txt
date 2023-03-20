@@ -1,0 +1,1 @@
+$[name,age,marks](@[marks>90 && age<18](student X[student.age=school.age] school))
